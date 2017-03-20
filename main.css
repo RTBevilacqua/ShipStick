@@ -28,6 +28,7 @@ table {
 	background: #D4D4D4;
 	margin: 0;
 	padding: 2% 0;
+	font-size: 1.3em;
 }
 
 .month {
@@ -36,11 +37,12 @@ table {
 	background: #A6A5A5;
 	border: 1px solid #979797;
 	padding: 2% 0;
+	font-size: 1.3em;
 }
 
 .destination {
 	text-align: center;
-	font-size: 2em;
+	font-size: 1.5em;
     margin: 2% 0;
 }
 
